@@ -1,0 +1,11 @@
+{
+  "name": "trivia-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RodrigoSester/trivia-game.git",
+  "author": "RodrigoSester <rsesterheim@maisaedu.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/cli": "^10.1.8"
+  }
+}
